@@ -1,4 +1,4 @@
-FROM ruby:2.4.1-slim
+FROM ruby:2.4.10-slim-buster
 MAINTAINER Talkdesk DevOps <devops@talkdesk.com>
 
 ENV APP_HOME /usr/src/app
